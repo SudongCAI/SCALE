@@ -77,3 +77,8 @@ Our codebase builds on [Z-Sampling](https://github.com/xie-lab-ml/Zigzag-Diffusi
 We thank the providers of the public datasets, including [DrawBench](https://imagen.research.google/), [GenEval](https://github.com/djghosh13/geneval), and [T2I-CompBench](https://github.com/Karine-Huang/T2I-CompBench).
 
 For evaluation, we thank the open-source applications of [ImageReward](https://github.com/zai-org/ImageReward), [VQAScore](https://github.com/linzhiqiu/t2v_metrics), and [DSGScore](https://github.com/j-min/DSG).
+
+
+## Note
+
+A backup repository containing the same content is available at [SCALE ECCV2026](https://github.com/Tianhang-Lu/SCALE).
